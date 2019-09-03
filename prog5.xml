@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type = "text/css" href="styles.css"?>
+
+<students>
+	<student>
+		<usn> USN : 4VV16CS001 </usn>
+		<name> NAME : abc </name>
+		<clg> COLLEGE : VVCE </clg>
+		<branch> BRANCH : CSE </branch>
+		<yoj> YOJ : 2019 </yoj>
+		<email> EMAIL : xyz@gmail.com</email>
+	</student>
+	<student>
+		<usn> USN : 4VV16CS002 </usn>
+		<name> NAME : qwe</name>
+		<clg> COLLEGE : VVCE </clg>
+		<branch> BRANCH : CSE </branch>
+		<yoj> YOJ : 2019</yoj>
+		<email> EMAIL : rty@gmail.com</email>
+	</student>
+	<student>
+		<usn> USN : 4VV16CS003 </usn>
+		<name> NAME : uio</name>
+		<clg> COLLEGE : VVCE </clg>
+		<branch> BRANCH : CSE </branch>
+		<yoj> YOJ : 2019 </yoj>
+		<email> EMAIL : asd@gmail.com</email>
+	</student>
+</students>

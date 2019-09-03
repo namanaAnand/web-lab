@@ -1,0 +1,29 @@
+usn{
+	color : #004d3d;
+	font-size : 20px;
+	font-style : bold;
+	font-family : times new roman;
+	display:block;
+	text-align : center;
+}
+
+name {
+	color : #00cca3;
+	font-size : 15px;
+	font-family : times new roman;
+	display:block;
+	text-align : center;
+}
+
+
+clg, yoj, brnch, email{
+	color : #00cca3;
+	font-size : 15px;
+	font-family : times new roman;
+	display:block;
+	text-align : center;
+}
+
+student, students{
+	background-color : #e6fffa;
+}
